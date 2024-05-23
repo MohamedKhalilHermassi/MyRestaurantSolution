@@ -8,7 +8,7 @@ using System.Net.Sockets;
 using System.Numerics;
 using System.Text;
 using System.Threading.Tasks;
-
+//DBCONTEXT
 namespace Infrastructure
 {
     public class ExamenContext:DbContext
