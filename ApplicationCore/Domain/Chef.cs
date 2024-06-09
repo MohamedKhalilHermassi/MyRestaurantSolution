@@ -8,7 +8,7 @@ namespace ApplicationCore.Domain
 {
     public class Chef : Employe
     {
-        public string Specialite { get; set; }
+        public string Specialit { get; set; }
         
     }
 }
